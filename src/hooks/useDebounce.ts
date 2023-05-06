@@ -8,4 +8,5 @@ function useDebounce(fn: any, delay: number) {
     }, delay);
   };
 }
+
 export { useDebounce };
